@@ -9,7 +9,7 @@
     "eventemitter": "braznaavtrav/EventEmitter",
     "eventie": "eiriklv/eventie",
     "get-size": "eiriklv/get-size",
-    "desandro-matches-selector": "desandro/matches-selector#082376f4b"
+    "desandro-matches-selector": "git://github.com/desandro/matches-selector.git#082376f4bbe7ff8c5c6bb258ec43259c9a80a7c3"
   },
   "devDependencies": {
     "qunit": "^0.7.5",  
